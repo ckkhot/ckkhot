@@ -38,7 +38,7 @@ I lead at the intersection of product, data, and analytics teams, shaping AI str
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **SIREN – Crisis Intelligence System** | Real-time AI chatbot to detect cascading urban disaster risks using sensor data, blockchain, and social signals. | `Python`, `LightGBM`, `Plotly`, `Blockchain`, `Preswald` |
+| **Neuropolis – Crisis Intelligence System** | Real-time AI chatbot to detect cascading urban disaster risks using sensor data, blockchain, and social signals. | `Python`, `LightGBM`, `Plotly`, `Blockchain`, `Preswald` |
 | **Fashom AI Recommendation API** | Revamped chatbot and recommendation pipeline to help Fashom scale as a B2B personalization engine. | `LightFM`, `Flask`, `Python`, `Collaborative Filtering` |
 | **IMDb Movie Analytics** | Analyzed Top 1000 Movie Ratings for correlation | `Python`, `TMDB API`, `Pandas`, `Seaborn` |
 | **Big Data Sentiment Engine** | Built Spark-based pipeline to analyze brand sentiment from Twitter + news in real time. | `Apache Spark`, `Kafka`, `HuggingFace`, `NLP` |
