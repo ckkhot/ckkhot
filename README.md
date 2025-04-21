@@ -1,6 +1,6 @@
 # 👋 Hi, I'm CK
 
-I lead at the intersection of product, data, and analytics teams, shaping AI strategy, and driving ideas to impact. I bring structure to ambiguity and momentum to vision. Let's connect, build and grow!
+I lead at the intersection of product, data, and analytics teams, shaping AI strategy, and driving ideas to impact. I bring structure to ambiguity and momentum to vision. Seeking my next adventure at the intersection of strategy and AI.
 
 ---
 
