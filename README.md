@@ -1,6 +1,6 @@
 # 👋 Hi, I'm CK
 
-I craft data-driven products that solve messy, human problems. With a background in marketing and a mind for machine learning, I specialize in AI systems that drive clarity, speed, and scale.
+I lead at the intersection of product, data, and analytics teams, shaping AI strategy, and driving ideas to impact. I bring structure to ambiguity and momentum to vision. Let's connect, build and grow!
 
 ---
 
@@ -9,12 +9,12 @@ I craft data-driven products that solve messy, human problems. With a background
 - **University of California, Davis**  
   *M.S. Business Analytics (STEM-Designated)*  
   2024 – 2025  
-  Focus: Advanced Statistics, Causal Inference, AI Strategy
+  Coursework: Advanced Statistics, Analytic Decision Making, Machine Learning & AI
 
 - **Symbiosis International University, India**  
   *MBA in Communication Management*  
   Graduated: 2017  
-  Specialized in Digital Strategy & Marketing Analytics
+  Specialized in Brand Communication and Advertising Research
 
 ---
 
