@@ -32,6 +32,7 @@ I lead at the intersection of product, data, and analytics teams, shaping AI str
   *Mumbai, India | 2015 – 2017*  
   Directed nationwide B2B marketing initiatives, including The Economic Times Global Business Summit. Built and launched proprietary media IPs from scratch.
 
+
 ---
 
 ## 🚀 Highlighted Projects
@@ -44,6 +45,22 @@ I lead at the intersection of product, data, and analytics teams, shaping AI str
 | **Big Data Sentiment Engine** | Built Spark-based pipeline to analyze brand sentiment from Twitter + news in real time. | `Apache Spark`, `Kafka`, `HuggingFace`, `NLP` |
 | **The New School of Thought** | EdTech initiative rethinking learning through AI-personalized curricula and skill-based modules. | `Strategy`, `AI EdTech`, `Miro`, `Streamlit` |
 
+
+---
+
+## 🏆 Awards & Recognition
+
+1. Accenture Leadership Essentials Award (2022 & 2023)
+Recognized two years in a row for outstanding team leadership and cross-functional execution.
+
+2. “Above and Beyond” – Accenture Annual Townhall (2023)
+Honored for extraordinary performance in launching global marketing automation and streamlining digital campaigns.
+
+3. MSBA Fellowship Award – UC Davis (2024)
+Awarded a $13,500 merit-based scholarship for academic excellence and leadership potential.
+
+4. Aggie Hackathon Finalist – UC Davis GSM (2025)
+Recognized for building NeuroPolis, an AI-powered cascading disaster detection system using real-time data and blockchain validation.
 
 ---
 
