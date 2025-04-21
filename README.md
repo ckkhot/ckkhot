@@ -34,6 +34,19 @@ I lead at the intersection of product, data, and analytics teams, shaping AI str
 
 ---
 
+## 🚀 Highlighted Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **SIREN – Crisis Intelligence System** | Real-time AI chatbot to detect cascading urban disaster risks using sensor data, blockchain, and social signals. | `Python`, `LightGBM`, `Plotly`, `Blockchain`, `Preswald` |
+| **Fashom AI Recommendation API** | Revamped chatbot and recommendation pipeline to help Fashom scale as a B2B personalization engine. | `LightFM`, `Flask`, `Python`, `Collaborative Filtering` |
+| **IMDb Movie Analytics** | Analyzed Top 1000 Movie Ratings for correlation | `Python`, `TMDB API`, `Pandas`, `Seaborn` |
+| **Big Data Sentiment Engine** | Built Spark-based pipeline to analyze brand sentiment from Twitter + news in real time. | `Apache Spark`, `Kafka`, `HuggingFace`, `NLP` |
+| **The New School of Thought** | EdTech initiative rethinking learning through AI-personalized curricula and skill-based modules. | `Strategy`, `AI EdTech`, `Miro`, `Streamlit` |
+
+
+---
+
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/chaitanyakhot/)
