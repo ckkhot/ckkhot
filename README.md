@@ -1,70 +1,99 @@
-# 👋 Hi, I'm CK
+<p align="center">
+  <img src="https://github.com/ckkhot/ckkhot/assets/banner-placeholder.png" alt="Chaitanya Khot – AI | Product | Strategy" width="100%" />
+</p>
 
-I lead at the intersection of product, data, and analytics teams, shaping AI strategy, and driving ideas to impact. I bring structure to ambiguity and momentum to vision. Seeking my next adventure at the intersection of strategy and AI.
+<h1 align="center">Hi, I'm Chaitanya Khot 👋</h1>
+
+<p align="center">
+  I lead at the intersection of product, data, and analytics—shaping AI strategy, aligning cross-functional teams, and driving ideas to impact.  
+  I bring structure to ambiguity and momentum to vision.  
+  <br>Let’s build what matters.
+</p>
+
+---
+
+## 📌 Table of Contents
+
+- [🎓 Education](#-education)
+- [💼 Experience](#-experience)
+- [🏆 Awards & Recognition](#-awards--recognition)
+- [🚀 Selected Projects](#-selected-projects)
+- [🛠️ Skills & Tools](#️-skills--tools)
+- [📫 Connect with Me](#-connect-with-me)
 
 ---
 
 ## 🎓 Education
 
-- **University of California, Davis**  
-  *M.S. Business Analytics (STEM-Designated)*  
-  2024 – 2025  
-  Coursework: Advanced Statistics, Analytic Decision Making, Machine Learning & AI
+**University of California, Davis**  
+*M.S. Business Analytics (STEM-designated)*  
+📍 San Francisco, CA | 2024–2025
 
-- **Symbiosis International University, India**  
-  *MBA in Communication Management*  
-  Graduated: 2017  
-  Specialized in Brand Communication and Advertising Research
+**Symbiosis International University**  
+*MBA in Communication Management*  
+📍 Pune, India | 2017–2019
+
+**R.A. Podar College of Commerce & Economics**  
+*Bachelor of Commerce*  
+📍 Mumbai, India | 2014–2017
 
 ---
 
 ## 💼 Experience
 
-- **AI & Data Strategy | Fashom (Practicum Project)**  
-  *San Francisco, CA | 2024 – Present*  
-  Transitioned Fashom from a B2C model to a scalable B2B platform by optimizing its AI chatbot. Worked with historic recommendation data, API deployment, and GTM strategy.
+**Project Manager & Data Scientist – Fashom**  
+📍 San Francisco, CA | 2024–Present  
+- Led roadmap for an AI chatbot MVP, built using LightFM and content filtering.
+- Defined growth metrics and UX feedback loops to drive feature prioritization.
 
-- **Digital Project Manager | Accenture Marketing Operations**  
-  *Mumbai, India | 2018 – 2023*  
-  Led global marketing campaigns for a Fortune 50 automotive brand. Managed multi-channel product launches, cross-functional teams, and campaign analytics.
+**Digital Project Manager – Accenture**  
+📍 Mumbai, India | 2018–2024  
+- Reduced product launch timelines by 33% for a Fortune 50 global automotive brand.
+- Owned GTM, UI/UX testing, stakeholder pitches, and marketing automation.
+- Recognized with 3 company awards for leadership and high performance.
 
-- **Brand & Event Strategist | The Times of India**  
-  *Mumbai, India | 2015 – 2017*  
-  Directed nationwide B2B marketing initiatives, including The Economic Times Global Business Summit. Built and launched proprietary media IPs from scratch.
-
-
----
-
-## 🚀 Highlighted Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Neuropolis – Crisis Intelligence System** | Real-time AI chatbot to detect cascading urban disaster risks using sensor data, blockchain, and social signals. | `Python`, `LightGBM`, `Plotly`, `Blockchain`, `Preswald` |
-| **Fashom AI Recommendation API** | Revamped chatbot and recommendation pipeline to help Fashom scale as a B2B personalization engine. | `LightFM`, `Flask`, `Python`, `Collaborative Filtering` |
-| **IMDb Movie Analytics** | Analyzed Top 1000 Movie Ratings for correlation | `Python`, `TMDB API`, `Pandas`, `Seaborn` |
-| **Big Data Sentiment Engine** | Built Spark-based pipeline to analyze brand sentiment from Twitter + news in real time. | `Apache Spark`, `Kafka`, `HuggingFace`, `NLP` |
-| **The New School of Thought** | EdTech initiative rethinking learning through AI-personalized curricula and skill-based modules. | `Strategy`, `AI EdTech`, `Miro`, `Streamlit` |
-
+**Assistant Project Manager – Times Group (ET Edge)**  
+📍 Mumbai, India | 2019–2021  
+- Produced India’s top B2B events like ET Global Business Summit.
+- Launched media-tech IPs and drove sponsor acquisition and engagement.
 
 ---
 
 ## 🏆 Awards & Recognition
 
-1. Accenture Leadership Essentials Award (2022 & 2023)
-Recognized two years in a row for outstanding team leadership and cross-functional execution.
-
-2. “Above and Beyond” – Accenture Annual Townhall (2023)
-Honored for extraordinary performance in launching global marketing automation and streamlining digital campaigns.
-
-3. MSBA Fellowship Award – UC Davis (2024)
-Awarded a $13,500 merit-based scholarship for academic excellence and leadership potential.
-
-4. Aggie Hackathon Finalist – UC Davis GSM (2025)
-Recognized for building NeuroPolis, an AI-powered cascading disaster detection system using real-time data and blockchain validation.
+- **Accenture Leadership Essentials Award** (2022 & 2023)  
+- **"Above and Beyond" – Accenture Annual Townhall (2023)**  
+- **MSBA Fellowship Award – UC Davis ($13,500 Scholarship)**  
+- **Aggie Hackathon Finalist – UC Davis GSM (2025)**  
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 Selected Projects
 
-- [LinkedIn](https://www.linkedin.com/in/chaitanyakhot/)
-- [Medium](https://medium.com/@ckkhot)
+| Project | Description | Tech |
+|--------|-------------|------|
+| **NeuroPolis – Crisis Intelligence System** | Real-time AI chatbot for disaster detection using sensor data & blockchain. | `Python`, `LightGBM`, `Plotly`, `Blockchain` |
+| **Fashom AI Recommender** | Personalized fashion recommendations via LightFM and scalable API deployment. | `Python`, `Flask`, `LightFM` |
+| **TMDB Movie Analytics** | Analyzed 50 years of IMDb + box office data to uncover hidden gems. | `Python`, `Pandas`, `TMDB API` |
+| **Sentiment Engine** | NLP pipeline for analyzing brand sentiment from Twitter and News APIs. | `Spark`, `Kafka`, `HuggingFace` |
+| **The New School of Thought** | AI-powered EdTech platform reimagining curriculum personalization. | `Strategy`, `Streamlit`, `Miro` |
+
+---
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LightFM](https://img.shields.io/badge/LightFM-orange?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyakhot/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ckkhot)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ckkhot)
