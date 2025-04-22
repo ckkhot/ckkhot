@@ -42,18 +42,18 @@
 
 ## 💼 Experience
 
-**Project Manager & Data Scientist – Fashom**  
+**Project Manager & Data Scientist – Fashom (Practicum Project)**  
 📍 San Francisco, CA | 2024–Present  
 - Led roadmap for an AI chatbot MVP, built using LightFM and content filtering.
 - Defined growth metrics and UX feedback loops to drive feature prioritization.
 
-**Digital Project Manager – Accenture**  
-📍 Mumbai, India | 2018–2024  
+**Digital Marketing Advisory Specialist – Accenture (Promoted from Senior Analyst)**  
+📍 Mumbai, India | 2021–2024  
 - Reduced product launch timelines by 33% for a Fortune 50 global automotive brand.
 - Owned GTM, UI/UX testing, stakeholder pitches, and marketing automation.
 - Recognized with 3 company awards for leadership and high performance.
 
-**Assistant Project Manager – Times Group (ET Edge)**  
+**Assistant Project Manager – Times Group (ET Edge) (Promoted from Management Trainee)**  
 📍 Mumbai, India | 2019–2021  
 - Produced India’s top B2B events like ET Global Business Summit.
 - Launched media-tech IPs and drove sponsor acquisition and engagement.
@@ -66,8 +66,6 @@
 - **"Above and Beyond" – Accenture Annual Townhall (2023)**  
 - **MSBA Fellowship Award – UC Davis ($13,500 Scholarship)**  
 - **Aggie Hackathon Finalist – UC Davis GSM (2025)**  
-
----
 
 ---
 
