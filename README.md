@@ -13,6 +13,16 @@
 
 ---
 
+<p align="center">
+  <a href="https://youtu.be/KRf8p2PwC-4" target="_blank"><b>🎥 Watch My 30-Second Intro Video</b></a>
+</p>
+
+<p align="center">
+  Who I am, what drives me, and why I’m building in SF.
+</p>
+
+---
+
 ## 📌 Table of Contents
 
 - [🎓 Education](#-education)
