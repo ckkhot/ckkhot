@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ckkhot/ckkhot/blob/main/gitbanner.png" alt="San Francisco Banner" width="100%" />
+  <img src="https://github.com/ckkhot/ckkhot/blob/main/banner.jpg" alt="San Francisco Banner" width="100%" />
 </p>
 
 
