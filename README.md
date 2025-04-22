@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/ckkhot/ckkhot/assets/banner-placeholder.png" alt="Chaitanya Khot – AI | Product | Strategy" width="100%" />
+  <img src="https://github.com/ckkhot/ckkhot/blob/main/banner.jpg" alt="San Francisco Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi, I'm Chaitanya Khot 👋</h1>
 
@@ -17,7 +18,7 @@
 - [🎓 Education](#-education)
 - [💼 Experience](#-experience)
 - [🏆 Awards & Recognition](#-awards--recognition)
-- [🚀 Selected Projects](#-selected-projects)
+- [🚀 Highlighted Projects](#-highlighted-projects)
 - [🛠️ Skills & Tools](#️-skills--tools)
 - [📫 Connect with Me](#-connect-with-me)
 
@@ -68,7 +69,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Highlighted Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
