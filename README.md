@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/ckkhot/ckkhot/blob/main/banner.jpg" alt="San Francisco Banner" width="100%" />
+  <img src="https://github.com/ckkhot/ckkhot/blob/main/gitbanner.png" alt="San Francisco Banner" width="100%" />
 </p>
 
 
-<h1 align="center">Hi, I'm Chaitanya Khot 👋</h1>
+<h1 align="center">Hi, I'm CK 👋</h1>
 
 <p align="center">
   I lead at the intersection of product, data, and analytics—shaping AI strategy, aligning cross-functional teams, and driving ideas to impact.  
