@@ -24,10 +24,10 @@ Let’s connect and co-create what’s next.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**NeuroPolis – Crisis Intelligence System**]| Real-time AI chatbot for disaster detection using sensor data & blockchain. | `Python` · `LightGBM` · `Plotly` · `Blockchain` |
-| [**Fashom AI Recommender**] | Personalized fashion recommendations via LightFM and scalable API deployment. | `Python` · `Flask` · `LightFM` |
+| [**NeuroPolis – Crisis Intelligence System**](https://github.com/ckkhot/ckkhot/blob/main/NeuroPolis-Report.pdf)| Real-time AI chatbot for disaster detection using sensor data & blockchain. | `Python` · `LightGBM` · `Plotly` · `Blockchain` 
 | [**IMDb Top 1000 Movies**](https://proj_f062ba12.preswald.app/) | A dashboard analyzing the Top 1000 Films on IMDb to uncover hidden gems. | `Python` · `Pandas` · `IMDB API` · `Preswald` |
 | [**Monthly Pizza Consumption Dashboard**](https://proj_669936c2.preswald.app/) | A dashboard analyzing the spends and experiences at Belissimo over time. | `Python` · `Pandas` · `Preswald` |
+| [**Fashom AI Recommender**] | Personalized fashion recommendations via LightFM and scalable API deployment. | `Python` · `Flask` · `LightFM` |
 | [**Sentiment Engine**] | NLP pipeline for analyzing brand sentiment from Twitter and news APIs. | `Spark` · `Kafka` · `HuggingFace` |
 | [**The New School of Thought**] | AI-powered EdTech platform reimagining curriculum personalization. | `Strategy` · `Streamlit` · `Miro` |
 
@@ -65,7 +65,26 @@ Let’s connect and co-create what’s next.
 
 ---
 
-## 🏆 Awards & Recognition
+## Experience
+
+### AI & Data Strategy — Fashom (Practicum Project)  
+*San Francisco, CA · 2024–Present*  
+- Developed optimized chatbot MVP for B2B pivot  
+- Built recommendation algorithm using LightFM  
+
+### Digital Marketing Advisory Specialist — Accenture (Promoted from Senior Analyst)  
+*Mumbai, India · 2021–2024*  
+- Launched global campaigns for a Fortune 50 brand  
+- Led Workfront-based marketing automation  
+
+### Assistant Project Manager — Times of India (ET Edge)  (Promoted from Management Trainee)
+*Mumbai, India · 2019–2021*  
+- Led India’s marquee B2B media engagements including ET Global Business Summit    
+- Managed marketing, sponsorship, content production and ops  
+
+---
+
+## Awards & Recognition
 
 - **Accenture Leadership Essentials Award** (2022 & 2023)  
   Recognized for exceptional team leadership and global execution excellence.
@@ -78,32 +97,32 @@ Let’s connect and co-create what’s next.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-### 🧑‍💻 Programming & ML Libraries
+### Programming & ML Libraries
 - `Python` · `SQL`
 - `LightFM` · `XGBoost` · `HuggingFace`
 - `Pandas` · `scikit-learn`
 
-### ⚙️ Data Engineering & Infrastructure
+### Data Engineering & Infrastructure
 - `Apache Spark` · `Kafka`
 - `AWS` · `Git`
 
-### 📊 Data Visualization & Analytics
+### Data Visualization & Analytics
 - `Tableau` · `Looker`
 - `Streamlit`
 
-### 📈 Marketing & Automation Tools
+### Marketing & Automation Tools
 - `SFMC` (Salesforce Marketing Cloud)
 - `AEM` (Adobe Experience Manager)
 - `Workfront` · `Optimizely` · `Hubspot` · `Marketo`
 
-### 🗂️ Product & Collaboration
+### Product & Collaboration
 - `JIRA` · `Miro` · `Preswald` · `Asana`
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Medium](https://medium.com/@ckkhot) · [Calendly](https://calendly.com/ckkhot-ucdavis) · [GitHub](https://github.com/ckkhot)
+[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Calendly](https://calendly.com/ckkhot-ucdavis) · [GitHub](https://github.com/ckkhot)
 
