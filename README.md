@@ -6,10 +6,9 @@
 <h1 align="center">Hi, I'm CK 👋</h1>
 
 <p align="center">
-  I'm a multi-dimensional leader with multi-disciplinary expertise of innovating multi-channel customer experiences through analytics, strategy & AI.  
-  I specialize in turning insights into impact and leading cross-functional teams through complexity to clarity.  
-  I'm currently seeking my next adventure in the heart of the silicon valley.
-  <br>Let’s connect, collaborate, and co-create what’s next.
+  I’m a cross-functional leader blending analytics, strategy, and AI to build customer experiences that scale.  
+  I turn insights into impact and guide teams through complexity toward clarity and growth.  
+  <br>Currently seeking my next adventure in the heart of Silicon Valley—let’s connect and co-create what’s next.
 </p>
 
 ---
