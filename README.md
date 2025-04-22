@@ -27,6 +27,7 @@ Let’s connect and co-create what’s next.
 | [**NeuroPolis – Crisis Intelligence System**]| Real-time AI chatbot for disaster detection using sensor data & blockchain. | `Python` · `LightGBM` · `Plotly` · `Blockchain` |
 | [**Fashom AI Recommender**] | Personalized fashion recommendations via LightFM and scalable API deployment. | `Python` · `Flask` · `LightFM` |
 | [**IMDb Top 1000 Movies**](https://proj_f062ba12.preswald.app/) | A dashboard analyzing the Top 1000 Films on IMDb to uncover hidden gems. | `Python` · `Pandas` · `IMDB API` · `Preswald` |
+| [**Monthly Pizza Consumption Dashboard**](https://proj_669936c2.preswald.app/) | A dashboard analyzing the spends and experiences at Belissimo over time. | `Python` · `Pandas` · `Preswald` |
 | [**Sentiment Engine**] | NLP pipeline for analyzing brand sentiment from Twitter and news APIs. | `Spark` · `Kafka` · `HuggingFace` |
 | [**The New School of Thought**] | AI-powered EdTech platform reimagining curriculum personalization. | `Strategy` · `Streamlit` · `Miro` |
 
