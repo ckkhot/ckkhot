@@ -6,9 +6,8 @@
 <h1 align="center">Hi, I'm CK 👋</h1>
 
 <p align="center">
-  I’m a cross-functional leader blending analytics, strategy, and AI to build customer experiences that scale.  
-  I turn insights into impact and guide teams through complexity toward clarity and growth.  
-  <br>Currently seeking my next adventure in the heart of Silicon Valley—let’s connect and co-create what’s next.
+  "The goal isn't to live forever. It is to create something that will."
+  <br>I'm currently seeking my next adventure in the heart of Silicon Valley — let’s connect and co-create what’s next.
 </p>
 
 ---
@@ -18,12 +17,12 @@
 </p>
 
 <p align="center">
-  Who I am, what drives me, and why I’m building in SF.
+  Who I am, what drives me, and why I’m here.
 </p>
 
 ---
 
-## 📌 Table of Contents
+## 📌 Quick Links
 
 - [🎓 Education](#-education)
 - [💼 Experience](#-experience)
@@ -61,7 +60,6 @@
 📍 Mumbai, India | 2021–2024  
 - Reduced product launch timelines by 33% for a Fortune 50 global automotive brand.
 - Owned GTM, UI/UX testing, stakeholder pitches, and marketing automation.
-- Recognized with 3 company awards for leadership and high performance.
 
 **Assistant Project Manager – Times Group (ET Edge) (Promoted from Management Trainee)**  
 📍 Mumbai, India | 2019–2021  
@@ -81,26 +79,33 @@
 
 ## 🧠 Specialties
 
-- **AI Product Strategy & Execution**  
-  Turning ambiguous ideas into deployable MVPs using AI-first frameworks. Shaped product roadmaps across chatbot, recommender, and machine learning based systems.
+### 💡 **AI Product Strategy & Execution**
+- Translate ambiguous ideas into deployable MVPs using AI-first frameworks  
+- Shaped product roadmaps for chatbot, recommender, and ML-powered systems
 
-- **Marketing Analytics & Growth Strategy**  
-  5+ years leading global campaigns, GTM planning, A/B testing, and funnel optimization across B2C and B2B businesses.
+### 📈 **Marketing Analytics & Growth**
+- 5+ years leading global campaigns, GTM planning, and funnel optimization  
+- Deep experience in A/B testing, attribution, and B2C/B2B growth strategy
 
-- **Machine Learning & Applied Modeling**  
-  Skilled in building and evaluating ML models using LightFM, XGBoost, Random Forest, and regression techniques. Focused on recommendation systems, classification models, and causal inference.
+### 🤖 **Machine Learning & Applied Modeling**
+- Built and evaluated ML models using LightFM, XGBoost, Random Forest  
+- Specialized in recommendation systems, classification, and causal inference
 
-- **Conversational AI & Personalization**  
-  Designed user journeys and chatbot flows across industries. Experience with collaborative filtering, user segmentation, and behavioral optimization.
+### 🧠 **Conversational AI & Personalization**
+- Designed chatbot flows and user journeys across industries  
+- Expertise in collaborative filtering, user segmentation, and behavioral design
 
-- **Big Data Pipelines & Real-Time Analysis**  
-  Built distributed pipelines using Apache Spark, Kafka, and cloud services for real-time social media + sensor data processing.
+### ⚡ **Big Data & Real-Time Processing**
+- Built distributed pipelines using Apache Spark, Kafka, and cloud services  
+- Delivered real-time analytics from social + sensor data feeds
 
-- **Usability Testing & Experience Design**  
-  Conducted UX research, A/B tests, and interface iterations to optimize onboarding, recommendation UX, and conversational flows.
+### 🧪 **UX Research & Experimentation**
+- Conducted usability tests and interface iterations for web + mobile flows  
+- Optimized onboarding, recommendation UIs, and conversational experiences
 
-- **Cross-functional Leadership**  
-  Led teams across design, dev, marketing, and analytics to launch scalable products and high-stakes campaigns with stakeholder alignment.
+### 🤝 **Cross-Functional Leadership**
+- Led teams across product, design, marketing, and engineering  
+- Drove alignment and execution in high-stakes, fast-paced environments
 
 ---
 
