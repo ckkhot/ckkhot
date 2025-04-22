@@ -6,9 +6,10 @@
 <h1 align="center">Hi, I'm CK 👋</h1>
 
 <p align="center">
-  I lead at the intersection of product, data, and analytics—shaping AI strategy, aligning cross-functional teams, and driving ideas to impact.  
-  I bring structure to ambiguity and momentum to vision.  
-  <br>Let’s build what matters.
+  I'm a multi-dimensional leader with multi-disciplinary expertise of innovating multi-channel customer experiences through analytics, strategy & AI.  
+  I specialize in turning insights into impact and leading cross-functional teams through complexity to clarity.  
+  I'm currently seeking my next adventure in the heart of the silicon valley.
+  <br>Let’s connect, collaborate, and co-create what’s next.
 </p>
 
 ---
@@ -55,8 +56,8 @@
 
 **Assistant Project Manager – Times Group (ET Edge) (Promoted from Management Trainee)**  
 📍 Mumbai, India | 2019–2021  
-- Produced India’s top B2B events like ET Global Business Summit.
-- Launched media-tech IPs and drove sponsor acquisition and engagement.
+- Produced India’s top B2B media thought leadership platforms like ET Global Business Summit.
+- Launched properitary media IPs and drove sponsor acquisition and engagement.
 
 ---
 
