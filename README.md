@@ -33,6 +33,19 @@ Let’s connect and co-create what’s next.
 
 ---
 
+## Awards & Recognition
+
+- **Aggie Hackathon Bronze Beacon & Best Mixed Team Award – UC Davis GSM** (2025)  
+  2nd Runners Up for building *NeuroPolis*, an AI-powered cascading disaster detection system.
+
+- **Accenture Leadership Essentials Award** (2022 & 2023)  
+  Recognized for exceptional team leadership and global execution excellence.
+
+- **“Above and Beyond” – Accenture Annual Townhall** (2023)  
+  Honored for extraordinary contributions to marketing automation and stakeholder alignment.
+
+___
+
 ## Specialties
 
 ### AI Product Strategy & Execution
@@ -81,19 +94,6 @@ Let’s connect and co-create what’s next.
 *Mumbai, India · 2019–2021*  
 - Led India’s marquee B2B media engagements including ET Global Business Summit    
 - Managed marketing, sponsorship, content production and ops  
-
----
-
-## Awards & Recognition
-
-- **Accenture Leadership Essentials Award** (2022 & 2023)  
-  Recognized for exceptional team leadership and global execution excellence.
-
-- **“Above and Beyond” – Accenture Annual Townhall** (2023)  
-  Honored for extraordinary contributions to marketing automation and stakeholder alignment.
-
-- **Aggie Hackathon Finalist – UC Davis GSM** (2025)  
-  Selected for building *NeuroPolis*, an AI-powered cascading disaster detection system.
 
 ---
 
