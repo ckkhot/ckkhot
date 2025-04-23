@@ -20,6 +20,20 @@ Let’s connect and co-create what’s next.
 
 ---
 
+## Awards & Recognitions
+
+- **Aggie Hackathon Bronze Beacon & Best Mixed Team Award – UC Davis GSM** (2025)  
+  2nd Runners Up for building *NeuroPolis*, an AI-powered cascading disaster detection system.
+
+- **Accenture Leadership Essentials Award** (2022 & 2023)  
+  Recognized for exceptional team leadership and global execution excellence.
+
+- **“Above and Beyond” – Accenture Annual Townhall** (2023)  
+  Honored for extraordinary contributions to marketing automation and stakeholder alignment.
+
+___
+
+
 ## Highlighted Projects
 
 | Project | Description | Tech |
@@ -32,19 +46,6 @@ Let’s connect and co-create what’s next.
 | [**The New School of Thought**] | AI-powered EdTech platform reimagining curriculum personalization. | `Strategy` · `Streamlit` · `Miro` |
 
 ---
-
-## Awards & Recognition
-
-- **Aggie Hackathon Bronze Beacon & Best Mixed Team Award – UC Davis GSM** (2025)  
-  2nd Runners Up for building *NeuroPolis*, an AI-powered cascading disaster detection system.
-
-- **Accenture Leadership Essentials Award** (2022 & 2023)  
-  Recognized for exceptional team leadership and global execution excellence.
-
-- **“Above and Beyond” – Accenture Annual Townhall** (2023)  
-  Honored for extraordinary contributions to marketing automation and stakeholder alignment.
-
-___
 
 ## Specialties
 
