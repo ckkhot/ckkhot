@@ -7,13 +7,11 @@ Hi there — I’m CK 👋
 
 With 5+ years in strategy and operations, I found my way into the analytics rabbit hole — from the west coast of India to the west-most coast of the world.
 
-Along the way, I’ve delivered global product launches, built AI-first MVPs, led marketing campaigns, and engineered machine learning models. From campaign execution to product roadmaps, I’ve loved doing everything, everywhere — just not all at once.
+Along the way, I’ve delivered global product launches, led marketing campaigns, built AI-first MVPs, and engineered machine learning models. From campaign execution to product roadmaps, I’ve loved doing everything, everywhere — just not all at once.
 
 I thrive at the intersection of **product, strategy, analytics, and AI**, and I’m currently seeking my next adventure in the heart of Silicon Valley.
 
-"The goal isn't to live forever, it is to create something that will."
-
-Let’s connect and co-create what’s next.
+"The goal isn't to live forever, it is to create something that will." Let’s connect and co-create what’s next.
 
 <p align="center">
   <a href="https://youtu.be/KRf8p2PwC-4" target="_blank"><b>🎥 Watch My 30-Second Intro </b></a><br>
