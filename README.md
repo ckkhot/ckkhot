@@ -81,7 +81,7 @@ ___
 
 ## Experience
 
-### Product Development Lead — Fashom (Practicum Project)  
+### Technical Product Manager — Fashom (Practicum Project)  
 *San Francisco, CA · 2024–Present*  
 - Developed optimized AI-powered chatbot MVP  
 - Built recommendation algorithm using LightFM  
