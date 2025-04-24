@@ -5,7 +5,7 @@
 <p align="center">
 Hi there — I’m CK 👋
 
-After 5+ years in digital marketing strategy and operations, I found my way into the analytics rabbit hole — from the west coast of India to the west-most coast of the world.
+After 5 exciting years in digital marketing strategy and operations, I found my way into the analytics rabbit hole — from the west coast of India to the west-most coast of the world.
 
 Along the way, I’ve delivered global product launches, led marketing campaigns, built AI-first MVPs, and engineered machine learning models. From campaign execution to product roadmaps, and from learning code to building recommendation systems. I’ve loved doing everything, everywhere — just not all at once.
 
