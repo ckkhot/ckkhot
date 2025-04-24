@@ -81,7 +81,7 @@ ___
 
 ## Experience
 
-### AI & Data Strategy — Fashom (Practicum Project)  
+### Product Development Lead — Fashom (Practicum Project)  
 *San Francisco, CA · 2024–Present*  
 - Developed optimized chatbot MVP for B2B pivot  
 - Built recommendation algorithm using LightFM  
