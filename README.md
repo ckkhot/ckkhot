@@ -38,7 +38,7 @@ ___
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**NeuroPolis – Crisis Intelligence System**](https://github.com/ckkhot/ckkhot/blob/main/NeuroPolis-Report.pdf)| Real-time AI chatbot for disaster detection using sensor data & blockchain. | `Python` · `LightGBM` · `Plotly` · `Blockchain` 
+| [**NeuroPolis – Crisis Intelligence System**](https://github.com/ckkhot/NeuroPolis)| Real-time AI chatbot for disaster detection using sensor data & blockchain. | `Python` · `LightGBM` · `Plotly` · `Blockchain` 
 | [**IMDb Top 1000 Movies**](https://proj_f062ba12.preswald.app/) | A dashboard analyzing the Top 1000 Films on IMDb to uncover hidden gems. | `Python` · `Pandas` · `IMDB API` · `Preswald` |
 | [**Monthly Pizza Consumption Dashboard**](https://proj_669936c2.preswald.app/) | A dashboard analyzing the spends and experiences at Belissimo over time. | `Python` · `Pandas` · `Preswald` |
 | [**Fashom AI Recommender**] | Personalized fashion recommendations via LightFM and scalable API deployment. | `Python` · `Flask` · `LightFM` |
