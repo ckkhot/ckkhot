@@ -83,18 +83,18 @@ ___
 
 ### Product Development Lead — Fashom (Practicum Project)  
 *San Francisco, CA · 2024–Present*  
-- Developed optimized chatbot MVP for B2B pivot  
+- Developed optimized AI-powered chatbot MVP  
 - Built recommendation algorithm using LightFM  
 
 ### Digital Marketing Advisory Specialist — Accenture (Promoted from Senior Analyst)  
 *Mumbai, India · 2021–2024*  
-- Launched global campaigns for a Fortune 50 brand  
-- Led Workfront-based marketing automation  
+- Led coordinated global product launch campaigns for a Fortune 50 brand  
+- Implemented Workfront-based marketing process optimization and automation  
 
 ### Assistant Project Manager — Times of India (ET Edge)  (Promoted from Management Trainee)
 *Mumbai, India · 2019–2021*  
 - Led India’s marquee B2B media engagements including ET Global Business Summit    
-- Managed marketing, sponsorship, content production and ops  
+- Managed marketing, sponsorship, content production, operations and C-Suite relationships 
 
 ---
 
@@ -123,7 +123,7 @@ ___
 
 ---
 
-## Connect
+## Say Hi
 
 [LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Calendly](https://calendly.com/ckkhot-ucdavis) · [GitHub](https://github.com/ckkhot)
 
