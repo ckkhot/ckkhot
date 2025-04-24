@@ -11,8 +11,6 @@ Along the way, I’ve delivered global product launches, led marketing campaigns
 
 I thrive at the intersection of **marketing, product, and analytics**, and I’m currently seeking my next adventure in the heart of Silicon Valley. 
 
-"The goal isn't to live forever, it is to create something that will." 
-
 Let’s connect and co-create what’s next.
 
 <p align="center">
