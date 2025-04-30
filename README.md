@@ -25,6 +25,9 @@ Let’s connect and co-create what’s next.
 - **Aggie Hackathon Bronze Beacon & Best Mixed Team Award – UC Davis GSM** (2025)  
   2nd Runners Up for building *NeuroPolis*, an AI-powered cascading disaster detection system.
 
+- **GSM MSBA Fellowship Award** (2024 - 2025)  
+  Merit-based part scholarship for the cohort of MSBA 2025.
+
 - **Accenture Leadership Essentials Award** (2022 & 2023)  
   Recognized for exceptional team leadership and global execution excellence.
 
