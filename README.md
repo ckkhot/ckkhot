@@ -7,9 +7,9 @@ Hi there — I’m CK 👋
 
 After 5 exciting years in digital marketing strategy and operations, I found my way into the analytics rabbit hole — from the west coast of India to the west-most coast of the world.
 
-Along the way, I’ve delivered global product launches, led marketing campaigns, built AI-first MVPs, and engineered machine learning models. From campaign execution to product roadmaps, and from learning code to building recommendation engines. I’ve loved doing everything, everywhere — just not all at once.
+Along the way, I’ve delivered global product launches, led omnichannel marketing campaigns, built AI-first MVPs, and engineered machine learning models. From campaign execution to product roadmaps, and from learning code to building recommendation engines. I’ve loved doing everything, everywhere — just not all at once.
 
-With a prior MBA and a recent Masters, I possess a unique skillset of being a specialist who can lead and manage people, technology and processes. I'm a product of my past as a project manager and a future as a product leader so I'm highly organized, and extremely result-oriented. I thrive at the intersection of **marketing, product, and analytics** so after successfully navigating the tides of the corporate landscape across agency, media, and technology, I'm now keen to explore mutual growth opportunities with startups in the Bay Area. 
+With a prior MBA and a recent Masters, I possess a unique skillset of being a specialist who can lead and manage people, technology and processes at scale. I'm a product of my past as a program manager and a future as a product leader so I'm highly organized, and extremely result-oriented. I thrive at the intersection of **marketing, product, and analytics** so after successfully navigating the tides of the corporate landscape across agency, media, and technology, I'm now keen to explore mutual growth opportunities with startups in the Bay Area. 
 
 Let’s connect and co-create what’s next.
 
