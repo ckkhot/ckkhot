@@ -13,9 +13,6 @@ With a prior MBA and a recent Masters, I possess a unique skillset of being a sp
 
 Let’s connect and co-create what’s next.
 
-<p align="center">
-  <a href="https://youtu.be/KRf8p2PwC-4" target="_blank"><b>🎥 Watch My 30-Second Intro </b></a><br>
-  <i>Who I am, what I do and why I'm here.</i>
 </p>
 
 ---
