@@ -19,7 +19,7 @@ Let’s connect and co-create what’s next.
 
 ## Awards & Recognitions
 
-- **Most Impactful award for PitchSense at Agent Hacks** (May 2025)  
+- **Most Impactful Award for PitchSense at Agent Hacks** (May 2025)  
   Winner of the Most Impactful project at Agent Hacks, hosted by Dex and AfterQuery, San Francisco CA.
 
 - **Aggie Hackathon Bronze Beacon & Best Mixed Team Award – UC Davis GSM** (Apr 2025)  
