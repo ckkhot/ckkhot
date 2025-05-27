@@ -41,6 +41,7 @@ ___
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [**PitchSense – AI Fundraising Copilot**](https://github.com/Avikalp-Karrahe/pitchsense) | AI agent that helps founders generate pitch decks, match with investors, and automate outreach. | `Next.js` · `Trae` · `Dex` · `OpenAI` · `Claude` |
 | [**NeuroPolis – Crisis Intelligence System**](https://github.com/ckkhot/NeuroPolis)| Real-time AI chatbot for disaster detection using sensor data & blockchain. | `Python` · `LightGBM` · `Plotly` · `Blockchain` 
 | [**IMDb Top 1000 Movies**](https://proj_f062ba12.preswald.app/) | A dashboard analyzing the Top 1000 Films on IMDb to uncover hidden gems. | `Python` · `Pandas` · `IMDB API` · `Preswald` |
 | [**Monthly Pizza Consumption Dashboard**](https://proj_669936c2.preswald.app/) | A dashboard analyzing personal spends and experiences at Belissimo Pizza SF over time. | `Python` · `Pandas` · `Preswald` |
