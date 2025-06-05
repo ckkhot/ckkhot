@@ -14,6 +14,12 @@ I'm currently spending my days ideating growth strategies and nights shipping op
 I thrive at the intersection of **AI, product, and analytics** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area. 
 
 Let’s connect and co-create what’s next.
+
+Work Availability:
+Full-time Internship on CPT Jun 16 to Aug 1, 2025
+Full-time STEM OPT earliest Aug 1, 2025 | Latest: Aug 18, 2025
+
+Willing to relocate for the right role, but I'm committed to doing my life's best in my current favorite city, San Francisco!
 </p>
 
 ---
