@@ -9,9 +9,9 @@ After 5 rewarding years in digital strategy and operations, I found my way into 
 
 Along the way, I’ve built AI-first MVPs, engineered machine learning models, delivered global product launches, and led omnichannel growth campaigns. From product roadmaps to campaign execution, and from learning code to building AI products. I’ve loved doing everything, everywhere — just not all at once. 
 
-I'm currently spending my days ideating growth strategies and nights shipping open source agentic products. With a prior MBA and a recent Masters, I possess a rare combination of a generalist's breadth with a specialist's depth, a leader's demeanor with a founder's mindset. 
+I'm currently spending my days ideating growth strategies and nights shipping open source agentic products. With a prior MBA and a recent Masters, I possess a rare combination of a generalist's breadth with a specialist's depth. 
 
-I thrive at the intersection of **AI, product, and analytics** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area. 
+I thrive at the intersection of **AI, product, and analytics** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area for the summer. 
 
 Let’s connect and co-create what’s next.
 
