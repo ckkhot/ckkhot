@@ -17,7 +17,7 @@ Let’s connect and co-create what’s next.
 
 Work Availability:
 Full-time Internship on CPT Jun 16 to Aug 1, 2025
-Full-time STEM OPT earliest Aug 1, 2025 | Latest: Aug 18, 2025
+Full-time STEM OPT Aug 18, 2025 
 
 Willing to relocate for the right role, but I'm committed to doing my life's best in my favorite city, San Francisco!
 </p>
