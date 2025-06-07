@@ -5,9 +5,9 @@
 <p align="center">
 Hi there — I’m CK 👋
 
-After 5 rewarding years in digital strategy and operations, I found my way into the analytics rabbit hole — from the west coast of India to the west-most coast of the world.
+An MBA and 5 years of work experience guided me straight down the analytics rabbit hole — from the west coast of India to the west-most coast of the world.
 
-Along the way, I’ve built AI-first MVPs, engineered machine learning models, delivered global product launches, and led omnichannel growth campaigns. From product roadmaps to campaign execution, and from learning code to building AI products. I’ve loved doing everything, everywhere — just not all at once. 
+Along the way, I’ve built AI-first MVPs, engineered machine learning models, shipped full stack products, delivered global product launches, and led omnichannel growth campaigns. From product roadmaps to campaign execution, and from learning code to building AI products. I’ve loved doing everything, everywhere — just not all at once. 
 
 I'm currently spending my days ideating growth strategies and nights shipping open source agentic products. With a prior MBA and a recent Masters, I possess a rare combination of a generalist's breadth with a specialist's depth. 
 
@@ -19,7 +19,7 @@ Work Availability:
 Full-time Internship on CPT Jun 16 to Aug 1, 2025
 Full-time STEM OPT earliest Aug 1, 2025 | Latest: Aug 18, 2025
 
-Willing to relocate for the right role, but I'm committed to doing my life's best in my current favorite city, San Francisco!
+Willing to relocate for the right role, but I'm committed to doing my life's best in my favorite city, San Francisco!
 </p>
 
 ---
