@@ -51,7 +51,6 @@ ___
 | [**IMDb Top 1000 Movies**](https://proj_f062ba12.preswald.app/) | A dashboard analyzing the Top 1000 Films on IMDb to uncover hidden gems. | `Python` · `Pandas` · `IMDB API` · `Numpy` · `Preswald` |
 | [**Monthly Pizza Consumption Dashboard**](https://proj_669936c2.preswald.app/) | A dashboard analyzing personal spends and experiences at Belissimo Pizza SF over time. | `Python` · `Pandas` · `R` · `Numpy` · `Preswald` |
 | [**Fashom AI Recommender**] | Personalized fashion recommendations via LightFM and scalable API deployment. | `Python` · `Surprise` · `Streamlit` · `Flask` · `LightFM` |
-| [**Sentiment Engine**] | NLP pipeline for analyzing brand sentiment from Twitter and news APIs. | `Spark` · `Kafka` · `HuggingFace` · `Pandas` · `Deep Learning` ·|
 | [**The New School of Thought**] | AI-powered EdTech platform reimagining curriculum personalization. | `Strategy` · `Streamlit` · `Miro` · `Notion` · `Market Research`|
 
 ---
