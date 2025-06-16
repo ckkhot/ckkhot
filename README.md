@@ -44,13 +44,13 @@ ___
 
 ## Highlighted Projects
 
-| Project                               | Description                                                                                                                 | Tech                                           |
-|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| **PitchSense – AI Fundraising Copilot** | AI agent that helps founders generate pitch decks, match with investors, and automate outreach.                            | Next.js · Trae · Dex · OpenAI · Claude         |
-| **Enhanced AGI Agent**                 | Custom agent designed and benchmarked for advanced reasoning and multi-step task execution in agentic workflows.   | Python · Transformers · LangChain · OpenAI      |
-| **NeuroPolis – Crisis Intelligence System** | Real-time AI chatbot for disaster detection using sensor data & blockchain.                                              | Python · RandomForest · LightGBM · Plotly · Blockchain |
-| **Fashom AI Recommender**              | Personalized fashion recommendations via LightFM and scalable API deployment.                                               | Python · Surprise · Streamlit · Flask · LightFM |
-| **The New School of Thought**          | AI-powered EdTech platform reimagining curriculum personalization.                                                          | Strategy · Streamlit · Miro · Notion · Market Research |
+| Project                                                                                         | Description                                                                                                             | Tech                                                     |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| [**PitchSense – AI Fundraising Copilot**](https://github.com/ckkhot/pitchsense)                 | AI agent that helps founders generate pitch decks, match with investors, and automate outreach.                         | Next.js · Trae · Dex · OpenAI · Claude                   |
+| [**NeuroPolis – Crisis Intelligence System**](https://github.com/ckkhot/NeuroPolis)             | Real-time AI chatbot for disaster detection using sensor data & blockchain.                                             | Python · RandomForest · LightGBM · Plotly · Blockchain   |
+| **Enhanced AGI Agent**                                                                          | Custom agent designed and benchmarked for advanced reasoning and multi-step task execution in agentic workflows.        | Python · LangChain · Trae · Claude · OpenAI               |
+| **Fashom AI Recommender**                                                                       | Personalized fashion recommendations via LightFM and scalable API deployment.                                           | Python · Surprise · Streamlit · Flask · LightFM          |
+| **The New School of Thought**                                                                   | AI-powered EdTech platform reimagining curriculum personalization.                                                      | Strategy · Streamlit · Miro · Notion · Market Research   |
 
 ---
 
