@@ -57,30 +57,37 @@ ___
 ## Specialties
 
 ### AI Product Strategy & Execution
-- Translate ideas into deployable MVPs using AI-first frameworks
-- Roadmap design for chatbot, recommender, and ML-powered products
+Translate ideas into deployable MVPs using AI-first frameworks
+- Roadmap design for chatbot, recommender, ML-powered, and agentic products
+- Experience in agentic product development and HCI research
 
 ### Marketing Analytics & Growth
+End-to-end marketing strategy and operations
 - Led GTM strategy, A/B testing, and B2C/B2B funnel optimization
 - Experience with global campaign planning and performance tracking
 
 ### Machine Learning & Applied Modeling
+Hypothesis-driven model testing and evaluation
 - LightFM, XGBoost, Random Forest, and regression models
 - Focused on recommendation systems and causal inference
 
 ### Conversational AI & Personalization
+Human-AI interaction protocols and UX research
 - Designed user journeys and chatbot flows across domains
 - Specialized in collaborative filtering and behavioral optimization
 
 ### Big Data & Real-Time Pipelines
+Deep learning and cloud processing techniques
 - Apache Spark + Kafka pipelines for sensor and social data
 - Deployed real-time analytics for crisis and brand monitoring
 
 ### UX Research & Experience Design
+HCI research and user experience enhancement
 - Led usability testing, A/B experiments, and UI iteration
 - Optimized onboarding, recommendation flows, and chatbot UX
 
 ### Cross-functional Leadership
+Proven track-record of delivering impactful results across functions.
 - Led teams across product, design, data, and engineering
 - Drove clarity, execution, and stakeholder alignment
 
