@@ -17,7 +17,7 @@ Let’s connect and co-create what’s next.
 
 Work Availability: Full-time roles starting June 23, 2025
 
-P.S: I'm open to relocate for the right role, but I'm committed to doing my life's best in my current favorite city, San Francisco!
+P.S: I'm open to relocate for the right role, but I'm committed to doing my life's best work in my current favorite city, San Francisco!
 </p>
 
 ---
