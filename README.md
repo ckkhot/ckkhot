@@ -22,7 +22,7 @@ P.S: I'm open to relocate for the right role, but I'm committed to doing my life
 
 ---
 
-## Awards & Recognitions
+## 🏆 Awards & Recognitions
 
 - **Most Impactful Award for PitchSense at Agent Hacks** (May 2025)  
   Winner of the Most Impactful project at Agent Hacks, hosted by Dex and AfterQuery, San Francisco CA.
@@ -41,8 +41,8 @@ P.S: I'm open to relocate for the right role, but I'm committed to doing my life
 
 ___
 
+## 🚀 Highlighted Projects
 
-## Highlighted Projects
 
 | Project                                                                                         | Description                                                                                                             | Tech                                                     |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -54,46 +54,20 @@ ___
 
 ---
 
-## Specialties
+## ⚡ Specialties & Proficiency
 
-### AI Product Strategy & Execution
-Translate ideas into deployable MVPs using AI-first frameworks
-- Roadmap design for chatbot, recommender, ML-powered, and agentic products
-- Experience in agentic product development and HCI research
-
-### Marketing Analytics & Growth
-End-to-end marketing strategy and operations
-- Led GTM strategy, A/B testing, and B2C/B2B funnel optimization
-- Experience with global campaign planning and performance tracking
-
-### Machine Learning & Applied Modeling
-Hypothesis-driven model testing and evaluation
-- LightFM, XGBoost, Random Forest, and regression models
-- Focused on recommendation systems and causal inference
-
-### Conversational AI & Personalization
-Human-AI interaction protocols and UX research
-- Designed user journeys and chatbot flows across domains
-- Specialized in collaborative filtering and behavioral optimization
-
-### Big Data & Real-Time Pipelines
-Deep learning and cloud processing techniques
-- Apache Spark + Kafka pipelines for sensor and social data
-- Deployed real-time analytics for crisis and brand monitoring
-
-### UX Research & Experience Design
-HCI research and user experience enhancement
-- Led usability testing, A/B experiments, and UI iteration
-- Optimized onboarding, recommendation flows, and chatbot UX
-
-### Cross-functional Leadership
-Proven track-record of delivering impactful results across functions.
-- Led teams across product, design, data, and engineering
-- Drove clarity, execution, and stakeholder alignment
+| Specialty                               | Proficiency |
+| --------------------------------------- | ----------- |
+| **Marketing Analytics & Growth**        | ★★★★★       |
+| **Program & Project Management**        | ★★★★★       |
+| **Data Visualization & Insights**       | ★★★★★       |
+| **Product Strategy & Development**      | ★★★★☆       |
+| **AI & Data Engineering**               | ★★★★☆       |
+| **Cross-functional Leadership**         | ★★★★★       |
 
 ---
 
-## Experience
+## 💼 Work Experience
 
 ### Technical Product Manager — Fashom (Practicum Project)  
 *San Francisco, CA · 2024–Present*  
@@ -112,32 +86,75 @@ Proven track-record of delivering impactful results across functions.
 
 ---
 
-## Skills & Tools
+## 🛠️ Skills & Tools
 
-### Programming & ML Libraries
-- `Python` · `SQL`
-- `LightFM` · `XGBoost` · `HuggingFace`
-- `Pandas` · `scikit-learn`
+<details>
+  <summary><strong>🧩 Programming & ML Libraries</strong></summary>
 
-### Data Engineering & Infrastructure
-- `Apache Spark` · `Kafka`
-- `AWS` · `Git`
+| Tool | Notes |
+|------|-------|
+| Python&nbsp;🐍 | ★★★★★ – daily driver |
+| SQL | ★★★★☆ |
+| XGBoost | ★★★★☆ |
+| HuggingFace 🤗 | ★★★☆☆ |
+| Pandas • scikit-learn | ★★★★★ |
 
-### Data Visualization & Analytics
-- `Tableau` · `Looker`
-- `Streamlit`
+</details>
 
-### Marketing & Automation Tools
-- `SFMC` (Salesforce Marketing Cloud)
-- `AEM` (Adobe Experience Manager)
-- `Workfront` · `Optimizely` · `Hubspot` · `Marketo` · `Sprinklr`
+<details>
+  <summary><strong>⚙️ Data Engineering & Infrastructure</strong></summary>
 
-### Product & Collaboration
-- `JIRA` · `Workfront` · `Preswald` ·  `Smartsheets` ·`Asana`
+| Tool | Notes |
+|------|-------|
+| Apache Spark | ★★★★☆ – ETL & streaming |
+| Kafka | ★★★★☆ |
+| AWS | ★★★★☆ – S3, Lambda, ECS |
+| Git | ★★★★★ |
+
+</details>
+
+<details>
+  <summary><strong>📊 Data Visualization & Analytics</strong></summary>
+
+| Tool | Notes |
+|------|-------|
+| Tableau | ★★★★★ – dashboards & story points |
+| Looker | ★★★☆☆ |
+| Streamlit | ★★★★☆ – rapid ML demos |
+
+</details>
+
+<details>
+  <summary><strong>✉️ Marketing & Automation</strong></summary>
+
+| Tool | Notes |
+|------|-------|
+| Salesforce MC | ★★★★★ – omnichannel journeys |
+| Adobe AEM | ★★★★★ – component authoring |
+| Workfront | ★★★★★ |
+| Optimizely | ★★★★☆ – A/B tests |
+| HubSpot • Marketo • Sprinklr | ★★★☆☆ |
+
+</details>
+
+<details>
+  <summary><strong>🤝 Product & Collaboration</strong></summary>
+
+| Tool | Notes |
+|------|-------|
+| JIRA | ★★★★★ – agile rituals |
+| Smartsheet | ★★★★☆ |
+| Asana | ★★★★☆ |
+| PowerBI | ★★★☆☆ – visualization |
+
+</details>
+
+<sub>Legend • ★★★★★ currently expert ★★★★☆ advanced ★★★☆☆ proficient</sub>
+
 
 ---
 
-## Say Hi
+## 👋 Say Hi
 
 [LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Calendly](https://calendly.com/ckkhot-ucdavis) · [GitHub](https://github.com/ckkhot)
 
