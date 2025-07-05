@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-
 Hey there, I’m CK 👋
 
 An MBA and 5 years of work experience guided me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world. From Bombay to THE Bay.
