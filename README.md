@@ -82,7 +82,7 @@ ___
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
 <details>
   <summary><strong>🧩 Programming & ML Libraries</strong></summary>
