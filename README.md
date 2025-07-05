@@ -5,7 +5,7 @@
 <p align="center">
 Hey there, I’m CK 👋
 
-An MBA and 5 years of work experience guided me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world. From Bombay to THE Bay.
+An MBA and 5 years of work experience guided me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world. From Bombay to the Bay area.
 
 Along the way, I’ve built AI-first MVPs, engineered machine learning models, shipped full stack products, delivered global product launches, and led omnichannel growth campaigns. From product roadmaps to campaign execution, and from learning code to building AI products. I’ve loved doing everything, everywhere, just not all at once. 
 
