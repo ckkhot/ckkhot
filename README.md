@@ -7,7 +7,7 @@ Hey there, I’m CK 👋
 
 An MBA and 5 years of progressive work guided me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world. From Bombay to the Bay area.
 
-Along the way, I’ve built AI-first MVPs, engineered machine learning models, shipped full stack products, delivered global product launches, and led omnichannel growth campaigns. From product roadmaps to campaign execution, and from learning code to building AI products. I’ve loved doing everything, everywhere, just not all at once. 
+Along the way, I’ve built AI-first MVPs, engineered machine learning models, shipped full stack products, delivered global product launches, and led omnichannel growth campaigns. From product roadmaps to campaign execution, and from learning code to building AI products. I’ve loved doing everything, everywhere, just not all at once. ([For the ones that didn't get the reference](https://www.youtube.com/watch?v=wxN1T1uxQ2g)) 
 
 I'm currently spending my days ideating growth strategies and nights shipping open source AI products. With a prior MBA and a recent Masters, I possess a rare combination of a generalist's breadth with a specialist's depth. I'm a marketer turned developer, a project lead turned product owner, and a strategist turned operator. 
 
