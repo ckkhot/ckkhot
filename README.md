@@ -14,8 +14,6 @@ I'm currently spending my days ideating growth strategies and nights shipping op
 I thrive at the intersection of **AI, product, and marketing** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area for the summer and beyond. 
 
 Let’s connect and co-create what’s next.
-
-P.S: I'm open to relocate for the right role, but I'm committed to doing my life's best work in my current favorite city, San Francisco!
 </p>
 
 ---
