@@ -152,5 +152,5 @@ ___
 
 ## 👋 Say Hi
 
-[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Cal](https://cal.com/chaitanya-khot-3tnfrd/15min) · [GitHub](https://github.com/ckkhot)
+[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Devpost](https://github.com/Avikalp-Karrahe/pitchsense/branches) · [Cal](https://cal.com/chaitanya-khot-3tnfrd/15min) 
 
