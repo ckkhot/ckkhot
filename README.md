@@ -5,13 +5,12 @@
 <p align="center">
 Hey there, I’m CK 👋
 
-An MBA and 5 years of progressive work guided me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world. From Bombay to the Bay area.
-
-I'm a strategist turned operator and a marketer turned developer. From product roadmaps to campaign execution, and from learning code to building AI products people actually use. I’ve loved doing everything, everywhere, just not all at once. ([For the ones that didn't get the reference](https://www.youtube.com/watch?v=wxN1T1uxQ2g)) 
+An MBA and 5 years of work spanning strategy, growth and product, guided me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world.
 
 I'm currently spending my days ideating growth strategies and nights shipping AI products. With a prior MBA and a recent Masters, I possess a rare combination of a generalist's breadth with a specialist's depth. 
+I'm a strategist turned operator and a marketer turned developer. From product roadmaps to campaign execution, and from learning code to building AI products people actually use. I’ve loved doing everything, everywhere, just not all at once. ([For the ones that didn't get the reference](https://www.youtube.com/watch?v=wxN1T1uxQ2g)) 
 
-I thrive at the intersection of **AI, product, and marketing** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area for the summer and beyond. 
+I thrive at the intersection of **AI, product, and growth** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area for the summer and beyond. 
 
 Let’s connect and co-create what’s next.
 </p>
