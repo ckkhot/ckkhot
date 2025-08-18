@@ -54,11 +54,10 @@ ___
 
 | Specialty                               | Proficiency |
 | --------------------------------------- | ----------- |
-| **Marketing Analytics & Growth**        | ★★★★★       |
-| **Program & Project Management**        | ★★★★★       |
+| **GTM Strategy & Growth**               | ★★★★★       |
+| **AI Product Engineering**              | ★★★★★       |
 | **Data Visualization & Insights**       | ★★★★★       |
-| **Product Strategy & Development**      | ★★★★☆       |
-| **AI & Data Engineering**               | ★★★★☆       |
+| **Marketing Strategy & Operations**     | ★★★★★       |
 | **Cross-functional Leadership**         | ★★★★★       |
 
 ---
@@ -115,7 +114,7 @@ ___
 | Tool | Notes |
 |------|-------|
 | Tableau | ★★★★★ – dashboards & story points |
-| Looker | ★★★☆☆ |
+| Looker | ★★★★★ |
 | Streamlit | ★★★★☆ – rapid ML demos |
 
 </details>
@@ -128,8 +127,8 @@ ___
 | Salesforce MC | ★★★★★ – omnichannel journeys |
 | Adobe AEM | ★★★★★ – component authoring |
 | Workfront | ★★★★★ |
-| Optimizely | ★★★★☆ – A/B tests |
-| HubSpot • Marketo • Sprinklr | ★★★☆☆ |
+| Optimizely | ★★★★★ – A/B tests |
+| HubSpot • Marketo • Sprinklr | ★★★★★ |
 
 </details>
 
@@ -141,7 +140,7 @@ ___
 | JIRA | ★★★★★ – agile rituals |
 | Smartsheet | ★★★★☆ |
 | Asana | ★★★★☆ |
-| PowerBI | ★★★☆☆ – visualization |
+| PowerBI | ★★★★☆ – visualization |
 
 </details>
 
@@ -152,5 +151,5 @@ ___
 
 ## 👋 Say Hi
 
-[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Devpost](https://github.com/Avikalp-Karrahe/pitchsense/branches) · [Cal](https://cal.com/chaitanya-khot-3tnfrd/15min) 
+[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Devpost](https://devpost.com/software/pitchsense) · [Cal](https://cal.com/chaitanya-khot-3tnfrd/15min) 
 
