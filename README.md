@@ -7,10 +7,9 @@ Hey there, I’m CK 👋
 
 An MBA and 5 years of work spanning strategy, growth and product, brought me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world.
 
-I'm currently spending my days ideating growth strategies and nights shipping AI products. With a prior MBA and a recent Masters, I possess a rare combination of a generalist's breadth with a specialist's depth. 
-I'm a strategist turned operator and a marketer turned developer. From product roadmaps to campaign execution, and from learning code to building AI products people actually use. I’ve loved doing everything, everywhere, just not all at once. ([For the ones that didn't get the reference](https://www.youtube.com/watch?v=wxN1T1uxQ2g)) 
+With a prior MBA and a recent Masters, I possess a generalist's breadth with a specialist's depth. I'm a strategist turned operator and a marketer turned developer. I specialize in AI products, growth engineering, and gtm operations. 
 
-I thrive at the intersection of **AI, product, and growth** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area. 
+I thrive at the intersection of **Product, growth and analytics** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area. 
 
 Let’s connect and co-create what’s next.
 </p>
@@ -43,9 +42,12 @@ ___
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | [**PitchSense – AI Fundraising Copilot**](https://github.com/ckkhot/pitchsense)                 | AI agent that helps founders generate pitch decks, match with investors, and automate outreach.                         | Next.js · Trae · Dex · OpenAI · Claude                   |
 | [**NeuroPolis – Crisis Intelligence System**](https://github.com/ckkhot/NeuroPolis)             | Real-time AI chatbot for disaster detection using sensor data & blockchain.                                             | Python · RandomForest · LightGBM · Plotly · Blockchain   |
-| **Enhanced AGI Agent**                                                                          | Custom agent designed and benchmarked for advanced reasoning and multi-step task execution in agentic workflows.        | Python · Trae · Notion · Claude · OpenAI               |
+| [**The New School of Thought**](https://v0-new-school-landing.vercel.app/)                      | AI-powered EdTech platform reimagining curriculum personalization.                                                      | Strategy · Streamlit · Miro · Notion · Market Research   |
+| [**Analytics Activated Dashboard**](https://lookerstudio.google.com/u/0/reporting/6a055229-f614-487e-ba2c-40158f543018/page/X8XSF) | Interactive dashboard visualizing my job search funnel and conversion metrics.                                          | Looker Studio · Data Visualization · Funnel Analytics    |
+| [**LinkedIn Growth Report – Aug 25**](https://lookerstudio.google.com/u/0/reporting/4f5be770-12ce-42c0-a255-941e09f96b75/page/SCuUF) | Growth analytics dashboard tracking impressions, engagement, and community expansion.                                   | Looker Studio · LinkedIn Analytics · Reporting           |
+| [**Eve – AI Call Copilot**](https://geteve.vercel.app/)                                         | Voice-based AI assistant that answers missed calls, summarizes them, and scales to SMB workflows.                       | Next.js · Vercel · OpenAI · Realtime Agents              |
+| **Enhanced AGI Agent**                                                                          | Custom agent designed and benchmarked for advanced reasoning and multi-step task execution in agentic workflows.        | Python · Trae · Notion · Claude · OpenAI                 |
 | **Fashom AI Recommender**                                                                       | Personalized fashion recommendations via LightFM and scalable API deployment.                                           | Python · Surprise · Streamlit · Flask · LightFM          |
-| **The New School of Thought**                                                                   | AI-powered EdTech platform reimagining curriculum personalization.                                                      | Strategy · Streamlit · Miro · Notion · Market Research   |
 
 ---
 
@@ -150,5 +152,6 @@ ___
 
 ## 👋 Say Hi
 
-[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Devpost](https://devpost.com/software/pitchsense) · [Cal](https://cal.com/chaitanya-khot-3tnfrd/15min) 
+[LinkedIn](https://www.linkedin.com/in/chaitanyakhot/) · [Devpost](https://devpost.com/software/pitchsense) · [Cal](https://cal.com/chaitanya-khot-3tnfrd/15min) · [Portfolio](https://ck-growth.vercel.app/) 
+
 
