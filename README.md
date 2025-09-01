@@ -5,7 +5,7 @@
 <p align="center">
 Hey there, I’m CK 👋
 
-An MBA and 5 years of work spanning strategy, growth and product, brought me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world.
+An MBA and 5 years of work spanning strategy, marketing, and growth led me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world.
 
 With a prior MBA and a recent Masters, I possess a generalist's breadth with a specialist's depth. I'm a strategist turned operator and a marketer turned developer. I specialize in AI products, growth engineering, and gtm operations. 
 
