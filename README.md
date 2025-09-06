@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner0.1.png" alt="Banner" />
+</p>
 
 <p align="center">
 Hey there, I’m CK 👋
