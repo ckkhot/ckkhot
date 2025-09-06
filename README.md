@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ckkhot/ckkhot/blob/main/gitbanner.png" alt="Chaitanya Khot Banner" width="100%" />
-</p>
 
 <p align="center">
 Hey there, I’m CK 👋
