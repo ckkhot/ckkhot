@@ -7,7 +7,7 @@ Hey there, I’m CK 👋
 
 An MBA and 5 years of work spanning strategy, marketing, and growth led me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world.
 
-With a prior MBA and a recent Masters, I possess a generalist's breadth with a specialist's depth. I'm a strategist turned operator and a marketer turned developer. I specialize in AI products, growth engineering, and gtm operations. 
+With a prior MBA and a recent Masters, I possess a generalist's breadth with a specialist's depth. I'm a strategist turned operator and a marketer turned developer. I specialize in AI products, growth marketing, and content development. 
 
 I thrive at the intersection of **Product, growth and analytics** so after successfully navigating the tides of the corporate landscape across agency, media, and tech enterprises, I'm now keen to explore mutual growth opportunities with startups in the Bay Area. 
 
