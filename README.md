@@ -59,7 +59,7 @@ ___
 ## 💼 Work Experience
 
 ### Growth Lead — Saki AI (Antler VC backed)  
-*San Francisco, CA · 2024–2025* 
+*San Francisco, CA · 2025–2025* 
 
 ### Technical Product Manager — Fashom   
 *San Francisco, CA · 2024–2025*  
