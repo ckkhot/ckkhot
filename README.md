@@ -5,11 +5,7 @@
 <p align="center">
 Hey there, I’m CK 👋
 
-An MBA and 5 years of work spanning strategy, operations, and growth led me straight down the analytics rabbit hole, from the west coast of India to the west-most coast of the world.
-
-With a prior MBA and a recent Masters, I possess a generalist's breadth with a specialist's depth. I'm a strategist turned operator and a marketer turned developer. 
-
-I specialize in AI products, growth marketing, workflow automation and data analytics. 
+MBA, MS, AI-native builder, strategist and operator, currently building the 0.1% club - a global community of new grads and early career professionals. I love building tools, products, and systems that scale.
 
 Let’s connect and co-create what’s next.
 </p>
