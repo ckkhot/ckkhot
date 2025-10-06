@@ -51,10 +51,8 @@ ___
 | Specialty                               | Proficiency |
 | --------------------------------------- | ----------- |
 | **GTM Strategy & Growth**               | ★★★★★       |
-| **AI Product Engineering**              | ★★★★★       |
 | **Data Visualization & Insights**       | ★★★★★       |
 | **Marketing Strategy & Operations**     | ★★★★★       |
-| **Cross-functional Leadership**         | ★★★★★       |
 
 ---
 
