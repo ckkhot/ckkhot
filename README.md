@@ -58,20 +58,17 @@ ___
 
 ## 💼 Work Experience
 
-### Technical Product Manager — Fashom (Practicum Project)  
-*San Francisco, CA · 2024–Present*  
-- Developed optimized AI-powered chatbot MVP  
-- Built recommendation algorithm using LightFM  
+### Growth Lead — Saki AI (Antler VC backed)  
+*San Francisco, CA · 2024–2025* 
 
-### Digital Marketing Advisory Specialist — Accenture (Promoted from Senior Analyst)  
+### Technical Product Manager — Fashom   
+*San Francisco, CA · 2024–2025*  
+
+### Digital Marketing Advisory Specialist — Accenture 
 *Mumbai, India · 2021–2024*  
-- Led coordinated global product launch campaigns for a Fortune 50 brand  
-- Implemented Workfront-based marketing process optimization and automation  
 
-### Assistant Project Manager — Times of India (ET Edge)  (Promoted from Management Trainee)
+### Assistant Project Manager — Times of India (ET Edge) 
 *Mumbai, India · 2019–2021*  
-- Led India’s marquee B2B media engagements including ET Global Business Summit    
-- Managed marketing, sponsorship, content production, operations and C-Suite relationships 
 
 ---
 
