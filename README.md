@@ -43,8 +43,6 @@ ___
 | [**Analytics Activated Dashboard**](https://lookerstudio.google.com/u/0/reporting/6a055229-f614-487e-ba2c-40158f543018/page/X8XSF) | Interactive dashboard visualizing my job search funnel and conversion metrics.                                          | Looker Studio · Data Visualization · Funnel Analytics    |
 | [**LinkedIn Growth Report, Aug 25**](https://lookerstudio.google.com/u/0/reporting/4f5be770-12ce-42c0-a255-941e09f96b75/page/SCuUF) | Growth analytics dashboard tracking impressions, engagement, and community expansion.                                   | Looker Studio · LinkedIn Analytics · Reporting           |
 | [**Eve AI Call Copilot**](https://geteve.vercel.app/)                                         | Voice-based AI assistant that answers missed calls, summarizes them, and scales to SMB workflows.                       | Next.js · Vercel · OpenAI · Realtime Agents              |
-| **Enhanced AGI Agent**                                                                          | Custom agent designed and benchmarked for advanced reasoning and multi-step task execution in agentic workflows.        | Python · Trae · Notion · Claude · OpenAI                 |
-| **Fashom AI Recommender**                                                                       | Personalized fashion recommendations via LightFM and scalable API deployment.                                           | Python · Surprise · Streamlit · Flask · LightFM          |
 
 ---
 
