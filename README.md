@@ -5,9 +5,7 @@
 <p align="center">
 Hey there, I’m CK 👋
 
-MBA, MS, AI-native builder, strategist and operator, currently building the 0.1% club - a global community of new grads and early career professionals. I love building tools, products, and systems that scale.
-
-Let’s connect and co-create what’s next.
+MBA, MS, AI-native builder, strategist and operator, currently building systems and leading ops at AGI, Inc.
 </p>
 
 ---
