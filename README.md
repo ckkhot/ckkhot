@@ -50,16 +50,19 @@ ___
 
 ## 💼 Work Experience
 
+### Founding Ops Lead — AGI, Inc. (Menlo VC backed)  
+*San Francisco, CA · 2025–Current* 
+
 ### Growth Lead — Saki AI (Antler VC backed)  
 *San Francisco, CA · 2025–2025* 
 
 ### Technical Product Manager — Fashom   
 *San Francisco, CA · 2024–2025*  
 
-### Digital Marketing Advisory Specialist — Accenture 
+### Digital Advisory Specialist — Accenture 
 *Mumbai, India · 2021–2024*  
 
-### Assistant Project Manager — Times of India (ET Edge) 
+### GTM Assistant Manager — Times of India (ET Edge) 
 *Mumbai, India · 2019–2021*  
 
 ---
